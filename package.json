@@ -12,7 +12,26 @@
         "messageKeys": [],
         "projectType": "native",
         "resources": {
-            "media": []
+            "media": [
+                {
+                    "file": "fonts/UbuntuMono-R.ttf",
+                    "name": "FONT_UBUNTU_42",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "images/background.png",
+                    "name": "IMAGE_BACK",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "fonts/Pacifico.ttf",
+                    "name": "FONT_PACIFICO_42",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
         },
         "sdkVersion": "3",
         "targetPlatforms": [
